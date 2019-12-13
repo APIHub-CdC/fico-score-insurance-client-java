@@ -185,7 +185,7 @@ public void getFicoscoreTest() throws ApiException {
   requestPersona.setApellidoPaterno("PATERNO");
   requestPersona.setApellidoMaterno("MATERNO");
   requestPersona.setApellidoAdicional(null);
-  requestPersona.setFechaNacimiento("1980-01-07");
+  requestPersona.setFechaNacimiento("07-01-1980");
   requestPersona.setRfc(null);
   requestPersona.setCurp(null);
   requestPersona.setDomicilio(requestDomicilio);
